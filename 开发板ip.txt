@@ -1,0 +1,45 @@
+板子ip：
+ wlan0 status
+bssid=58:41:20:4c:c7:95
+freq=2437
+ssid=TP-LINK_CAAD
+id=0
+mode=station
+pairwise_cipher=CCMP
+group_cipher=TKIP
+key_mgmt=WPA2-PSK
+wpa_state=COMPLETED
+ip_address=192.168.0.43
+p2p_device_address=c2:f5:35:39:17:3e
+address=c0:f5:35:39:17:3e
+uuid=a811428c-b9ab-59c1-ac51-e5cc6d66ba2a
+root@lubancat:~#
+
+
+
+电脑ip：
+以太网适配器 以太网:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   本地链接 IPv6 地址. . . . . . . . : fe80::aee8:d619:2e02:8a3a%17
+   IPv4 地址 . . . . . . . . . . . . : 192.168.0.10
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 192.168.0.1
+
+以太网适配器 VMware Network Adapter VMnet1:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   本地链接 IPv6 地址. . . . . . . . : fe80::1344:acd0:b84d:7a44%13
+   IPv4 地址 . . . . . . . . . . . . : 192.168.65.1
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+
+以太网适配器 VMware Network Adapter VMnet8:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   本地链接 IPv6 地址. . . . . . . . : fe80::fed:667f:13:539%7
+   IPv4 地址 . . . . . . . . . . . . : 192.168.40.1
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+
+C:\Users\Admin>
